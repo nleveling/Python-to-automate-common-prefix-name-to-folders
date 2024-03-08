@@ -6,18 +6,23 @@ This tool can be used to when you have numerous files that have unique names, bu
 
 ## Important Files
 - /AddMetres.bat (This can be used to call the python script to run when needed. Inputs are the python run env location, and the folder where the script lives.)
-  [!Bat](imgs/Bat.PNG)
+
+  ![Bat](imgs/Bat.PNG)
   
 - /AddMetres.py (This is the script that renames the folders with the designated prefix)
-  [!AddMetres](imgs/AddMetres.PNG)
+
+   ![AddMetres](imgs/AddMetres.PNG)
   
 - /ReadMe.txt (Additional Information)
 
 ## Before running Bat file
-[!Before](imgs/Before.PNG)
+
+![Before](imgs/Before.PNG)
 
 ## Run Bat File
-[!RunBat](imgs/RunBat.PNG)
+
+![RunBat](imgs/RunBat.PNG)
 
 ## After running Bat file
-[!After](imgs/After.PNG)
+
+![After](imgs/After.PNG)
